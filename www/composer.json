@@ -1,0 +1,9 @@
+{
+    "name": "fabrizio.conti",
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "Class/"
+        }
+    }
+
+}
